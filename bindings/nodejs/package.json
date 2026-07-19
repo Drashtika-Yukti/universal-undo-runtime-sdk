@@ -1,0 +1,12 @@
+{
+  "name": "universal-undo-runtime",
+  "version": "1.0.0",
+  "description": "Node.js binding for Universal Undo Runtime",
+  "main": "uur.js",
+  "scripts": {
+    "test": "node test_uur.js"
+  },
+  "dependencies": {
+    "koffi": "^2.16.2"
+  }
+}
